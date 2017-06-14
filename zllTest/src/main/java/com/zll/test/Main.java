@@ -16,7 +16,7 @@ public class Main
         System.out.println("ss");
         System.out.println("ss");
         System.out.println("ss");
-        System.out.println("ss");
+        System.out.println("swws");
         System.out.println("ss");
         System.out.println("ss");
         System.out.println("ss");
