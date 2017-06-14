@@ -7,10 +7,9 @@ public class Main
 {
     public static void main(String[] args)
     {
-        System.out.println("Hello World,11");
+        System.out.println("Hello World");
         System.out.println("swws");
         System.out.println("ss134343");
-        System.out.println("ss134343");
-        System.out.println("ss134343");
+        System.out.println("3113");
     }
 }
